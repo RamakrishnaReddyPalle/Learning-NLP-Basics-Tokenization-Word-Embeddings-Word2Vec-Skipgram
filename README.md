@@ -21,5 +21,6 @@ Welcome to my repository documenting my journey in learning Natural Language Pro
 
 Stay tuned for updates as I delve deeper into NLP and explore more advanced topics!
 
--- [Your Name or Handle]
+-- Ramakrishna Reddy
+
 
